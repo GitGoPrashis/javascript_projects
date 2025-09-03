@@ -21,7 +21,7 @@ This repository contains a collection of small JavaScript projects that demonstr
    A utility to generate random numbers, useful for learning randomness in JavaScript.
 
 6. **Temperature Conversion Program**
-   Converts temperatures between Celsius, Fahrenheit, and Kelvin.
+   Converts temperatures between Celsius, Fahrenheit.
 
 ## 🛠️ Technologies Used
 
@@ -43,7 +43,7 @@ This repository contains a collection of small JavaScript projects that demonstr
 
 These projects were created to practice JavaScript fundamentals and improve problem-solving skills. They can also be used as starter templates for learning web development.
 
-## 📌 Future Improvements
+## 📌 what I had added into it
 
 * Add styling with CSS frameworks
 * Improve UI/UX
