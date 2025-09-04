@@ -23,7 +23,7 @@ This repository contains a collection of small JavaScript projects that demonstr
 6. **Temperature Conversion Program**
    Converts temperatures between Celsius, Fahrenheit.
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies I had Used
 
 * HTML
 * CSS
@@ -47,7 +47,7 @@ These projects were created to practice JavaScript fundamentals and improve prob
 
 * Add styling with CSS frameworks
 * Improve UI/UX
-* Add more interactive projects
+* Add more interactive things in projects
 
 ---
 
